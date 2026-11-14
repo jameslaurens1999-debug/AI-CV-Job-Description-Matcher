@@ -1,0 +1,26 @@
+Alex Johnson
+Machine Learning Engineer
+alex.johnson@email.com | github.com/alexj
+
+SUMMARY
+ML engineer with 4 years of experience building NLP and computer vision
+models for production. Passionate about generative AI and MLOps.
+
+EXPERIENCE
+Machine Learning Engineer — DataCorp (2022-present)
+- Built a transformer-based document classifier, improving accuracy 15%
+- Deployed models with Docker and Kubernetes on AWS
+- Led a team of 3 engineers; ran A/B testing on recommendation models
+- Used PyTorch, TensorFlow, pandas, and scikit-learn daily
+
+Junior Data Scientist — InsightLab (2020-2022)
+- Performed data analysis with SQL and Python; built dashboards in Tableau
+- Trained computer vision models for defect detection (OpenCV, Keras)
+- Communicated findings to stakeholders and wrote technical documentation
+
+EDUCATION
+B.S. Computer Science, State University (2020)
+
+SKILLS
+Python, SQL, PyTorch, TensorFlow, scikit-learn, Docker, Kubernetes,
+AWS, NLP, machine learning, deep learning, pandas, git, Linux
